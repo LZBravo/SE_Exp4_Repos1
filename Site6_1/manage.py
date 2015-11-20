@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+ B2
+"""
 import os
 import sys
 
