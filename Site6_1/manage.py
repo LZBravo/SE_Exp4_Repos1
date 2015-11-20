@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
- B2
+ C4
 """
 import os
 import sys

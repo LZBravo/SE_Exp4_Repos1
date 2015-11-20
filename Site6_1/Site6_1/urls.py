@@ -12,3 +12,6 @@ urlpatterns = patterns('',
     url(r'^$', 'address_book.views.add_people'),
     url(r'^view_all/$', 'address_book.views.view_all')
 )
+"""
+ C4
+"""

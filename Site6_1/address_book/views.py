@@ -2,6 +2,10 @@ from django.shortcuts import render_to_response
 from django.template import Context
 from models import People
 
+"""
+ C4
+"""
+
 def add_people(request):
     if request.POST:
         post = request.POST
